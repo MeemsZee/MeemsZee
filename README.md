@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MeemsZee
 - 👀 I’m interested in living the nerd life.
-- 🌱 I’m currently learning SQL and BI tools
-- 💞️ I’m looking to collaborate on querying North American Climbing Accidents.  Would be interesting to see the kinds of accidents and the details about them. 
+- 🌱 I’m currently studying to be a data engineer
+- 
 - 📫 How to reach me...
 
 <!---
